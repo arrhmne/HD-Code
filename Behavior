@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title> Just a Generic Page </title>
     <script>
-      setTimeout(ssd, 3000);
+      setTimeout(ssd, 2000);
       function ssd() {
         alert("are you going to stare at this boring page forver ? ")
       }
